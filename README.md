@@ -95,3 +95,6 @@ SHAP plots provide transparent explanations of how each feature influences indiv
 
 Performance plots help visualize model accuracy and generalizability.
 
+🤝 Acknowledgments
+Developed as part of the NYC Data Science Academy Bootcamp using the publicly available Ames Housing dataset created by Dean De Cock.
+
