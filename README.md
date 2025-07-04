@@ -16,11 +16,11 @@ The Ames Housing dataset includes 2,580 house sale records from 2006 to 2010, co
 
 1 target variable: SalePrice
 
-79 predictors: capturing lot size, neighborhood, quality ratings, house style, garage size, and more
+81 predictors: capturing lot size, neighborhood, quality ratings, house style, garage size, and more
 
 43 categorical features
 
-36 numeric features
+38 numeric features
 
 🗂️ Predictor Categories
 Predictors were grouped into nine thematic categories:
