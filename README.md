@@ -37,8 +37,6 @@ Living Area & Floor Plan
 
 Heating, Cooling & Electrical
 
-Fireplaces
-
 Garage & Parking
 
 Outdoor Features & Amenities
