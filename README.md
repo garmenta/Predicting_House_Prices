@@ -26,7 +26,6 @@ The Ames Housing dataset includes 2,580 house sale records from 2006 to 2010, co
 Predictors were grouped into 10 thematic categories:
 
 Location, Zoning & Proximity
-Neighborhood, MSZoning, LotArea, LotFrontage, Street, Alley, LotShape, LandContour
 
 Structural & Building Class
 
