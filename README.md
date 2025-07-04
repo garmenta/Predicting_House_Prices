@@ -23,7 +23,7 @@ The Ames Housing dataset includes 2,580 house sale records from 2006 to 2010, co
 36 numeric features
 
 🗂️ Predictor Categories
-Predictors were grouped into 10 thematic categories:
+Predictors were grouped into nine thematic categories:
 
 Location, Zoning & Proximity
 
